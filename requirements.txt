@@ -1,0 +1,10 @@
+torchmetrics==1.2.0
+torchmetrics[detection]
+flwr==1.8.0
+numpy==1.24.4
+pandas==2.0.3
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.65.0
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
